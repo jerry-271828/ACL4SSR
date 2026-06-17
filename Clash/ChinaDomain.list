@@ -140,6 +140,7 @@ DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
+DOMAIN-SUFFIX,biliimg.com
 
 # ByteDance
 DOMAIN-SUFFIX,amemv.com
@@ -474,6 +475,15 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
+
+# XNYKCXT
+DOMAIN-SUFFIX,xnykcxt.com
+
+#Yuque
+DOMAIN-KEYWORD,yuque
+
+#seiue
+DOMAIN-SUFFIX,seiue.com
 
 # China DNS
 DOMAIN-SUFFIX,doh.pub
