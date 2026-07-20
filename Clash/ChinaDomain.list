@@ -108,6 +108,9 @@ DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,qwen.ai
 
+# Atomgit
+DOMAIN-SUFFIX,atomgit.com
+
 # Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
@@ -287,6 +290,9 @@ DOMAIN-SUFFIX,jd.hk
 DOMAIN-SUFFIX,jdcloud.com
 DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,paipai.com
+
+# Kimi
+DOMAIN-SUFFIX,kimi.com
 
 # Kingsoft
 DOMAIN-SUFFIX,iciba.com
