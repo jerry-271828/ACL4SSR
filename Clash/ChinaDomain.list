@@ -319,6 +319,9 @@ DOMAIN-SUFFIX,letvimg.com
 DOMAIN-SUFFIX,letvlive.com
 DOMAIN-SUFFIX,letvstore.com
 
+# leetcode 力扣
+DOMAIN-SUFFIX,leetcode-cn.com
+
 # MGTV 芒果TV
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,hunantv.com
